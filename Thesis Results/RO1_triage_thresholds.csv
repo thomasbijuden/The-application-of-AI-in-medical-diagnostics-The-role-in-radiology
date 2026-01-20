@@ -1,0 +1,6 @@
+Condition,Threshold_for_0.90_sens,Sensitivity,Specificity
+Atelectasis,0.0,0.9999999999875,0.0
+Cardiomegaly,0.0,0.9999999999852941,0.0
+Consolidation,0.0,0.9999999999696971,0.0
+Edema,0.0,0.9999999999777779,0.0
+Pleural Effusion,0.0,0.9999999999850746,0.0
